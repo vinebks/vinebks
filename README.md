@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @vinebks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-vinebks/vinebks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Vinicius
+- 👀 I’m interested in development works.
+- 🌱 I’m currently learning JavaScript (TypeScript) coding at Front-end (ReactJS, Redux) and Back-end (NodeJs)
+- 📫 How to reach me ? can u send me a e-mail >> vinybks@hotmail.com
